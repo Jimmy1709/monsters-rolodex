@@ -38,10 +38,7 @@ class App extends Component {
     );
     return (
       <div className="App">
-        <h1>  Amrita I just Love you So much.</h1>
-        <h2> It has been a year since i met you first. </h2>  
-        <h2> I want to tell you that it is a very important and special day for me </h2> 
-        <h1> I promise you a very happy and happening ;) life ahead. I LOVE YOU !!</h1>
+        <h1>  Monster Rolodex</h1>
         <SearchBox
             placeholder='search monsters'
             handleChange= {this.handleChange}
